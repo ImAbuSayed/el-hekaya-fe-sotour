@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Hekaya Fe Sotour
+
+This log tracks the cryptographic history and versioning for the song **El Hekaya Fe Sotour** (el-hekaya-fe-sotour).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:39:25.302441 | `v1` | `7ad091b726afa331b2bae333ea36913905e375720139776d86f1e68b727f549f` | `95aca54778e3e9a2935c071132193aed5e2f607bbd7cca89ece6bbaa29b5cae4` | `2026-05-09_el-hekaya-fe-sotour-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
